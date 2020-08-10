@@ -7,5 +7,6 @@ public class Solution03 {
 
     public void test(){
         int i = 0;
+        i = i + 1;
     }
 }
